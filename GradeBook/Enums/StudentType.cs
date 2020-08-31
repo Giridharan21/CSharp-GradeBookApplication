@@ -5,8 +5,7 @@
         Standard,
         Honors,
         DualEnrolled,
-        OneToFour,
-        SixPoint
+       
 
     }
 
